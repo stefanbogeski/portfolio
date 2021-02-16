@@ -4,7 +4,7 @@
 
 ## Bio
 
-<img src="./images/app-dev.png" width="100%" />
+<img src="./images/app-dev.jpg" width="100%" />
 
 I am a professional mobile application developer with 7 years of development experience and I am Master's degree in Computer Science. I have worked on various mobile areas including application development, firmware customization, AI, Computer Vision and WebRTC for last 7 years. And also I have extensive experience in building native Android/iOS applications as well as developing application on cross-platform like React Native, Flutter and Ionic.
 
