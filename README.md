@@ -21,7 +21,7 @@ I appreciate all considerations for development work. Please feel free to reach 
 
 ### GiftGO - [iOS](https://apps.apple.com/us/app/giftgo/id14900279941)
 
-<img src="./images/giftgo.png" alt="Gift GO" width="100%"/>
+<img src="./images/giftgo.jpg" alt="Gift GO" width="100%"/>
 
 
 ### Tertius - [iOS](https://apps.apple.com/us/app/tertius-read-capture-grow/id1441909218?ls=1) | [Web](https://tertius.app/)
