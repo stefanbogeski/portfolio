@@ -29,7 +29,7 @@ I appreciate all considerations for development work. Please feel free to reach 
 <img src="./images/tertius.png" alt="Tertius" width="100%"/>
 
 
-## Experienced skills
+## Skills
 
 - Hybrid Application Development: React Native, Ionic(Cordova & Capacitor), Flutter
 - Native Application Development: Java/Kotlin, Swfit
