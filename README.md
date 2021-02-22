@@ -1,6 +1,7 @@
 <img src="./images/profile.png" width="300" height="300"/>
 
-# Stefan Bogeski - Mobile Software Engineer
+## Stefan Bogeski
+# Mobile Software Engineer
 
 ## Bio
 
