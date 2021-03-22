@@ -1,7 +1,7 @@
 <img src="./images/profile.png" width="300" height="300"/>
 
 ## Stefan Bogeski
-# Mobile Software Engineer
+# Full Stack Software Engineer
 
 ## Bio
  
@@ -38,6 +38,7 @@ I appreciate all considerations for development work. Please feel free to reach 
 
 - Hybrid Application Development: React Native, Ionic(Cordova & Capacitor), Flutter
 - Native Application Development: Java/Kotlin, Swfit
+- Web Application Development: React.js, next.js, gatsby
 - WebRTC: Jitsi, Zoom, Janus...
 - Firmware Custom
 - Computer Vision
