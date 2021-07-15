@@ -40,10 +40,11 @@ I appreciate all considerations for development work. Please feel free to reach 
 ## Skills
 
 - Hybrid Application Development: React Native, Ionic(Cordova & Capacitor), Flutter
-- Native Application Development: Java/Kotlin, Swfit
-- Web Application Development: React.js, next.js, gatsby
+- Native Application Development: Java/Kotlin, Swfit, SwiftUI
+- Web Application Development: React.js, next.js, gatsby, laravel
 - WebRTC: Jitsi, Zoom, Janus...
 - Firmware Custom
 - Computer Vision
 - Cloud Service: Firebase, AWS(Lambda, Amplify, ...), Alibaba, Airtable, ...
 - Database: SQLITE, Realm, PostgreSQL, MySQL, MongoDB
+- CI/CD
