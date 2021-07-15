@@ -18,11 +18,6 @@ I appreciate all considerations for development work. Please feel free to reach 
 <img src="./images/mtb.png" alt="MTB Record & Submit 2021" width="100%"/>
 
 
-### Phyl - [iOS](https://apps.apple.com/dk/app/phyl/id1515148571) | [Android](https://play.google.com/store/apps/details?id=com.xelon.physiotherapist&hl=gl&gl=US) | [Web](https://physio.bitcat.agency/)
-
-<img src="./images/phyl.png" alt="Phyl" width="100%" height="500px"/>
-
-
 ### Ski for Sadie - [iOS](https://apps.apple.com/in/app/ski-for-sadie/id1492585646) | [Android](https://play.google.com/store/apps/details?id=co.uk.redbullet.skiforsadie&hl=en&gl=US)
 
 <img src="./images/skiforsadie.png" alt="Ski for Sadie" width="100%"/>
@@ -35,6 +30,11 @@ I appreciate all considerations for development work. Please feel free to reach 
 ### Tertius - [iOS](https://apps.apple.com/us/app/tertius-read-capture-grow/id1441909218?ls=1) | [Web](https://tertius.app/)
 
 <img src="./images/tertius.png" alt="Tertius" width="100%"/>
+
+
+### Phyl - [iOS](https://apps.apple.com/dk/app/phyl/id1515148571) | [Android](https://play.google.com/store/apps/details?id=com.xelon.physiotherapist&hl=gl&gl=US) | [Web](https://physio.bitcat.agency/)
+
+<img src="./images/phyl.png" alt="Phyl" width="100%" height="500px"/>
 
 
 ## Skills
