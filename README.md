@@ -1,15 +1,8 @@
-<img src="./images/profile.png" width="300" height="300"/>
-
-## Stefan Bogeski
 # Full Stack Software Engineer
 
-## Bio
- 
-<img src="./images/app-dev.jpg" width="100%" />
+I am a professional mobile & web application developer with 7 years of development experience and I am Master's degree in Computer Science. I have worked on various mobile & web areas including application development, firmware customization, AI, Computer Vision and WebRTC for last 7 years. I have extensive experience in building native Android/iOS applications as well as developing application on cross-platform like React Native, Flutter and Ionic.
 
-I am a professional mobile application developer with 7 years of development experience and I am Master's degree in Computer Science. I have worked on various mobile areas including application development, firmware customization, AI, Computer Vision and WebRTC for last 7 years. And also I have extensive experience in building native Android/iOS applications as well as developing application on cross-platform like React Native, Flutter and Ionic.
-
-Over years of experience in building mobile applications, I acquired deep knowledge of solving complex problems using cutting edge technologies. I am constantly learning new frameworks and technologies to work even more efficiently and write even better code.
+Over years of experience in building mobile & web applications, I acquired deep knowledge of solving complex problems using cutting edge technologies. I am constantly learning new frameworks and technologies to work even more efficiently and write even better code.
 
 I appreciate all considerations for development work. Please feel free to reach out or invite me to a project if you feel my services would benefit!
  
