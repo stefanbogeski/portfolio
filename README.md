@@ -17,7 +17,7 @@ I appreciate all considerations for development work. Please feel free to reach 
 
 ### Phyl - [iOS](https://apps.apple.com/dk/app/phyl/id1515148571) | [Android](https://play.google.com/store/apps/details?id=com.xelon.physiotherapist&hl=gl&gl=US) | [Web](https://physio.bitcat.agency/)
 
-<img src="./images/phyl.png" alt="Phyl" width="100%"/>
+<img src="./images/phyl.png" alt="Phyl" width="100%" height="500px"/>
 
 
 ### MTB Record & Submit 2021 - [iOS](https://apps.apple.com/us/app/mtb-record-and-submit-2021/id1552918129) | [Android](https://play.google.com/store/apps/details?id=com.mtbexams.recordsubmit2021) | [Web](https://www.mtbexams.com/)
