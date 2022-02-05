@@ -42,6 +42,7 @@ I appreciate all considerations for development work. Please feel free to reach 
 - Hybrid Application Development: React Native, Ionic(Cordova & Capacitor), Flutter
 - Native Application Development: Java/Kotlin, Swfit, SwiftUI
 - Web Application Development: React.js, next.js, gatsby, laravel
+- Payment: Stripe, Braintree, Plaid, Modern Treasury, Increase ...
 - WebRTC: Jitsi, Zoom, Janus...
 - Firmware Custom
 - Computer Vision
